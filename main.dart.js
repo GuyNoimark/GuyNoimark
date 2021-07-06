@@ -20451,7 +20451,7 @@ a2k:function(a){var s=0,r=P.a3(t.Ni),q,p,o
 var $async$a2k=P.Z(function(b,c){if(b===1)return P.a0(c,r)
 while(true)switch(s){case 0:p=t.bD
 s=3
-return P.a9(G.aBz(P.l5("http://scouting-system.herokuapp.com/graphql"),'{"query": "mutation{createMatch(match: '+a.js().i(0)+'){statusCode, error}}"}',P.ay(["Content-Type","application/json; charset=UTF-8"],p,p)),$async$a2k)
+return P.a9(G.aBz(P.l5("https://scouting-system.herokuapp.com/graphql"),'{"query": "mutation{createMatch(match: '+a.js().i(0)+'){statusCode, error}}"}',P.ay(["Content-Type","application/json; charset=UTF-8"],p,p)),$async$a2k)
 case 3:o=c
 p=o.b
 if(p===200)P.hx("yeyy "+H.c(p))
