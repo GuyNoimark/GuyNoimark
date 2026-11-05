@@ -4,7 +4,7 @@ I'm an engineer working across robotics, embedded systems and software, based in
 
 **Curious by nature.** Things I love working on:
 
-`Robotics` `Software & Hardware` `Physics` `Simulations` `3D Modeling` `Design` `Data Visualization` `Geographic Information Systems (GIS)` `Urban Planning` `User Experience (UX)` `Music` `Video Editing` `Biographies`
+`🤖 Robotics` `💻 Software & Hardware` `⚛️ Physics` `🎲 Simulations` `🧊 3D Modeling` `🎨 Design` `📊 Data Visualization` `🗺️ Geographic Information Systems (GIS)` `🏙️ Urban Planning` `🧭 User Experience (UX)` `🎸 Music` `🎬 Video Editing` `📚 Biographies`
 
 **Right now:** building Jams, a collaborative jam session app.
 
